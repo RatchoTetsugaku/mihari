@@ -43,7 +43,7 @@ float gyroX_dps = 0;
 float gyroY_dps = 0;
 float gyroZ_dps = 0;
 
-// SPEAKER HAT。
+// SPEAKER HAT 初期値
 const int servo_pin = 26;
 int freq = 50;
 int ledChannel = 0;
